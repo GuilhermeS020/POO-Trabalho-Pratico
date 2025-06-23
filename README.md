@@ -151,3 +151,13 @@ public class ContaEnergia
 Este projeto é acadêmico e foi desenvolvido como parte do trabalho final da disciplina de Programação Orientada por Objetos.
 
 ---
+
+## 🎥 Demonstração
+
+[Assista à demonstração no YouTube](https://youtu.be/XXzHjpF9p2k)
+
+Ou clique na imagem abaixo:
+
+[![Clique para assistir](https://img.youtube.com/vi/XXzHjpF9p2k/0.jpg)](https://youtu.be/XXzHjpF9p2k)
+
+---
