@@ -148,6 +148,6 @@ public class ContaEnergia
 
 ## 📝 Licença
 
-Este projeto é acadêmico e foi desenvolvido como parte do trabalho final da disciplina de [nome da disciplina].
+Este projeto é acadêmico e foi desenvolvido como parte do trabalho final da disciplina de Programação Orientada por Objetos.
 
 ---
