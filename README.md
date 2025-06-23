@@ -114,16 +114,6 @@ public class ContaEnergia
 
 ---
 
-## 🧩 Melhorias Futuras (Sugestões)
-
-- Exportação de relatório em PDF
-- Integração com banco de dados
-- Tela de listagem de contas por usuário
-- Validação de CPF/CNPJ
-- Responsividade e design aprimorado
-
----
-
 ## 👥 Autores
 
 - Arthur Braga Ribeiro
