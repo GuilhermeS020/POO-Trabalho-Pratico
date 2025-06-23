@@ -1,0 +1,72 @@
+[
+  {
+    "Nome": "Raul",
+    "Documento": "123",
+    "IsPessoaJuridica": false,
+    "Contas": [
+      {
+        "Tipo": "Residencial",
+        "LeituraAnterior": 10,
+        "LeituraAtual": 5,
+        "Consumo": -5
+      },
+      {
+        "Tipo": "Comercial",
+        "LeituraAnterior": 60,
+        "LeituraAtual": 500,
+        "Consumo": 440
+      }
+    ]
+  },
+  {
+    "Nome": "Guilherme",
+    "Documento": "456",
+    "IsPessoaJuridica": false,
+    "Contas": [
+      {
+        "Tipo": "Residencial",
+        "LeituraAnterior": 11,
+        "LeituraAtual": 6,
+        "Consumo": -5
+      }
+    ]
+  },
+  {
+    "Nome": "A",
+    "Documento": "1",
+    "IsPessoaJuridica": false,
+    "Contas": [
+      {
+        "Tipo": "Residencial",
+        "LeituraAnterior": 100,
+        "LeituraAtual": 100,
+        "Consumo": 0
+      }
+    ]
+  },
+  {
+    "Nome": "b",
+    "Documento": "2",
+    "IsPessoaJuridica": false,
+    "Contas": [
+      {
+        "Tipo": "Residencial",
+        "LeituraAnterior": 100,
+        "LeituraAtual": 100,
+        "Consumo": 0
+      },
+      {
+        "Tipo": "Residencial",
+        "LeituraAnterior": 50,
+        "LeituraAtual": 100,
+        "Consumo": 50
+      }
+    ]
+  },
+  {
+    "Nome": "C",
+    "Documento": "2",
+    "IsPessoaJuridica": false,
+    "Contas": []
+  }
+]
