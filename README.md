@@ -71,20 +71,9 @@ public class ContaEnergia
 ---
 
 ## 📊 Diagrama de Classes (simplificado)
-```
-+----------------+          +------------------+
-|   Consumidor   |<>--------|   ContaEnergia   |
-+----------------+          +------------------+
-| - Nome         |          | - Tipo           |
-| - Documento    |          | - LeituraAnterior|
-| - Contas       |          | - LeituraAtual   |
-+----------------+          +------------------+
-                            | +Consumo         |
-                            | +ValorTotal()    |
-                            +------------------+
-```
 
----
+![image](https://github.com/user-attachments/assets/a1f081ec-aa02-40ee-abfb-0d06d53be10c)
+
 
 ## 🔁 Fluxo de Funcionamento
 
